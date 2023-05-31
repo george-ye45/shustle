@@ -1,6 +1,6 @@
 {
     "name": "shustle",
-    "homepage": "https://george-ye45.github.io/shustle",
+    "homepage": "https://george-ye45.github.io/shustle/",
     "version": "0.1.0",
     "dependencies": {
         "bootstrap": "^5.2.3",
