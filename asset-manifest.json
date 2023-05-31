@@ -1,12 +1,14 @@
 {
   "files": {
-    "main.css": "/shustle/static/css/main.507a3381.css",
-    "main.js": "/shustle/static/js/main.0ddb757e.js",
+    "main.css": "/shustle/static/css/main.54179614.css",
+    "main.js": "/shustle/static/js/main.8ba48157.js",
     "static/media/test.png": "/shustle/static/media/test.bc9d83325471917821a5.png",
-    "index.html": "/shustle/index.html"
+    "index.html": "/shustle/index.html",
+    "main.54179614.css.map": "/shustle/static/css/main.54179614.css.map",
+    "main.8ba48157.js.map": "/shustle/static/js/main.8ba48157.js.map"
   },
   "entrypoints": [
-    "static/css/main.507a3381.css",
-    "static/js/main.0ddb757e.js"
+    "static/css/main.54179614.css",
+    "static/js/main.8ba48157.js"
   ]
 }
